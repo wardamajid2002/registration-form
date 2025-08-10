@@ -1,0 +1,415 @@
+
+    
+#list{
+ border-bottom: 1px;
+    width: 1200px;
+    height: 80px;
+    border-color: darkgrey;
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+   
+   }
+#search{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1yUgDtsdyxePQ1uZamjYGO7pH-2Q9TI2xsQ&s');
+background-size: 33px;
+background-repeat: no-repeat;
+border-radius: 10px;
+width: 200px;
+height: 20px;
+background-position: 180px;
+position: relative;
+left: 160px;
+}
+ul>li {
+    display: inline-block;
+    padding: 20px;
+}
+#image{
+    
+    position: relative;
+    right: 25px;
+}
+.bar{
+   position: relative;
+   top: -10px;
+
+}
+#logo{
+    border-radius: 30px;
+    width: 80px;
+    height: 35px;
+    background-color: white;
+  border-style: none;
+position: relative;
+left:120px ;
+}
+ #sign{
+    border-radius: 30px;
+    width: 80px;
+    height: 35px;
+    background-color: forestgreen;
+    color: white;
+    border-color: white;
+    border-style: none;
+  position: relative;
+left: 70px;
+} 
+input{
+    padding-right: 10px;
+    }
+.links{
+    display: inline-block;
+    width: 2000px;
+    font-size: small;
+    margin: 0px 0px 0px -20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+a:hover{
+    text-decoration: underline;
+    color: mediumblue;
+}
+h1{
+    color: darkgreen;
+    margin: 40px 0px 20px 150px;
+}
+#heading{
+margin-top: -20px;
+font-size: 400%;
+
+}
+#how::first-letter{
+font-size: 160%;
+}
+#how{
+    font-size: 340%;
+}
+#forget{
+    margin: -10px 0px 0px 150px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 0.1em;
+  opacity:85%;
+}
+#start{
+ border-radius: 30px;
+    width: 120px;
+    height: 35px;
+    background-color: forestgreen;
+    color: white;
+    border-color: white;
+    border-style: none;
+    margin: 30px 0px 0px 150px;
+ }
+#trust{
+    margin: 70px 0px 0px 150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    opacity: 80%;
+}
+#people{
+    position: relative;
+    left: 800px;
+    top: -390px;
+    background-color: white;
+}
+#microsoft{
+    position: relative;
+   top: -400px;
+   left: 100px;
+
+}
+#video{
+    position: relative;
+    top: -250px;
+    left: 120px;
+}
+.paragraph{
+    width: 450px;
+    height: 100px;
+    position: relative;
+    left: 650px;
+    top: -650px;
+
+}
+#tag{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+   margin-left: -50px;
+   margin-top: -25px;
+}
+#para{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 10px;
+   margin-top: -20px;
+   margin-left: -50px;
+
+}
+ #free{
+    border-radius: 30px;
+    width: 140px;
+    height: 30px;
+    background-color: forestgreen;
+    color: white;
+    border-color: white;
+    border-style: none;
+  position: relative;
+left: -30px;
+} 
+#browse{
+    font-size: 30px;
+}
+#class{
+    position: relative;
+    left: 120px;
+    top: -350px;
+}
+#looking{
+    margin-top: -20px;
+    font-size:15px ;
+}
+#anchor{
+    text-decoration: underline;
+    text-decoration-color: darkgreen;
+    color: darkgreen;
+}
+#plates{
+    width: 1500px;
+
+}
+#box1{
+    width: 200px;
+    height: 100px;
+    background-color: bisque;
+    border: 2px none white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: -300px;
+    margin-left: 100px;
+
+}
+.span2{
+    padding-left: 10px;
+    font-weight: lighter;
+  font-size: small;
+   
+}
+#box2{
+    width: 200px;
+    height: 100px;
+    background-color: bisque;
+    border: 2px none white;
+    border-radius: 10px;
+  padding: 10px;
+    margin-top: 10px;
+    margin-left: 350px;
+    margin-top: -120px;
+   
+
+}
+#box3{
+    width: 200px;
+    height: 100px;
+    background-color: bisque;
+    border: 2px none white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 600px;
+    margin-top: -120px;
+
+
+}
+#box4{
+    width: 200px;
+    height: 100px;
+    background-color: bisque;
+    border: 2px none white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 860px;
+    margin-top: -120px;
+    
+}
+.span1{
+font-weight: lighter;
+font-size: small;
+}
+#box5{
+    width: 200px;
+    height: 100px;
+    background-color: bisque;
+    border: 2px none white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 100px;
+    
+}
+#box6{
+    width: 200px;
+    height: 100px;
+    background-color: bisque;
+    border: 2px none white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 350px;
+    margin-top: -120px;
+    
+    
+}
+#box7{
+    width: 200px;
+    height: 100px;
+    background-color: bisque;
+    border: 2px none white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 600px;
+    margin-top: -120px;
+  
+}
+#box8{
+    width: 200px;
+    height: 100px;
+    background-color: bisque;
+    border: 2px none white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 860px;
+   margin-top: -120px;
+    
+}
+.picture{
+    width: 1000px;
+    height: 500px;
+    background-color: rgb(27, 105, 62);
+    border: 2px none white;
+    border-radius: 5px;
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+#p1{
+     color: white;
+     font-size: larger;
+     padding: 20px 0px 0px 20px;
+    }
+    #this{
+        color: white;
+        font-size: 40px;
+        padding-left:20px ;
+     margin-top: 35px;
+    }
+    #good{
+        color: yellowgreen;
+    }
+    #access{
+        color: white;
+        padding-left: 20px;
+        margin-top: -50px;
+    }
+    #expert{
+        width: 600px;
+      list-style-type: circle;
+      margin-top: -250px;
+      margin-left: 60px;
+      color: white;
+      height: 500px;
+    }
+    #list1{
+       margin-top: -40px;
+    }
+#list2{
+    margin-top: -40px;
+}
+#more{
+    border-radius: 30px;
+    width: 120px;
+    height: 35px;
+    background-color:white ;
+    color: black;
+    border-color: white;
+    border-style: none;
+ margin: -20px 0px 0px 120px;
+ position: relative;
+ top: -360px;
+} 
+#upwork{
+    width: 500px;
+    height: 500px;
+     background-color: rgb(27, 105, 62);
+    border: 2px none white;
+    border-radius: 5px;
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+#screen{
+    position: relative;
+    left: 650px;
+    top: -822px;
+}
+#talent{
+     width: 880px;
+    height: 435px;
+    background-color:rgb(255, 92, 174);
+    border: 2px none white;
+    border-radius: 5px;
+    margin-top: -750px;
+    margin-left: 160px;
+    margin-bottom: 30px;
+}
+#heading1{
+    font-size: 60px;
+    color: white;
+    margin: -5px 0px 0px 20px;
+}
+#largest{
+color: white;
+padding-left: 20px;
+margin-top: 40px;
+}
+#post1{
+    width: 260px;
+    height:120px ;
+    border: 0.5px none black;
+    background-color: darkgreen;
+    color: white;
+    border-radius: 5px;
+    margin: 3px 0px 0px 20px;
+}
+#pro1{
+font-size: 20px;
+position: relative;
+top: -35px;
+right: 50px;
+}
+#tm{
+    font-size: 10px;
+    position: relative;
+    right: 65px;
+    top: -70px;
+}
+#tm1{
+    font-size: 10px;
+    position: relative;
+    right: 70px;
+    top: -70px;
+}
+#post1:hover{
+    color: green;
+    background-color: white;
+}
+#start:hover{
+    background-color:sienna;
+    color: darkred;
+ 
+}
